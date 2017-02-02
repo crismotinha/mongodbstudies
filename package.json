@@ -1,0 +1,28 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Repositório de estudo do MongoDB, do módulo \"Store Data in MongoDB\" do FreeCodeCamp. (https://www.freecodecamp.com/challenges/store-data-in-mongodb)",
+  "main": "agregate.js",
+  "dependencies": {
+    "express": "^3.2.6",
+    "mongo": "^0.1.0",
+    "socket.io": "^0.9.17",
+    "mongodb": "^2.2.22",
+    "async": "^0.2.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crismotinha/mongodbstudies.git"
+  },
+  "author": "Cris Motinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crismotinha/mongodbstudies/issues"
+  },
+  "homepage": "https://github.com/crismotinha/mongodbstudies#readme"
+}
